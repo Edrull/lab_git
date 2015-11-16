@@ -1,0 +1,31 @@
+H/W path      Устройство  Класс  Описание
+================================================================
+                                    system      Computer
+/0                                  bus         Motherboard
+/0/0                                memory      3959MiB Системная память
+/0/1                                processor   AMD Athlon(tm) X2 340 Dual Core Processor
+/0/1/0                              memory      80KiB Кэш L1
+/0/1/1                              memory      1MiB Кэш L2
+/0/100                              bridge      Family 15h (Models 10h-1fh) Processor Root Complex
+/0/100/2                            bridge      Family 15h (Models 10h-1fh) Processor Root Port
+/0/100/2/0                          display     GT218 [GeForce 210]
+/0/100/2/0.1                        multimedia  High Definition Audio Controller
+/0/100/4                            bridge      Family 15h (Models 10h-1fh) Processor Root Port
+/0/100/4/0    eth0                  network     RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+/0/100/11                           storage     FCH SATA Controller [AHCI mode]
+/0/100/12                           bus         FCH USB OHCI Controller
+/0/100/12.2                         bus         FCH USB EHCI Controller
+/0/100/13                           bus         FCH USB OHCI Controller
+/0/100/13.2                         bus         FCH USB EHCI Controller
+/0/100/14                           bus         FCH SMBus Controller
+/0/100/14.1                         storage     FCH IDE Controller
+/0/100/14.2                         multimedia  FCH Azalia Controller
+/0/100/14.3                         bridge      FCH LPC Bridge
+/0/100/14.4                         bridge      FCH PCI Bridge
+/0/100/14.5                         bus         FCH USB OHCI Controller
+/0/101                              bridge      Family 15h (Models 10h-1fh) Processor Function 0
+/0/102                              bridge      Family 15h (Models 10h-1fh) Processor Function 1
+/0/103                              bridge      Family 15h (Models 10h-1fh) Processor Function 2
+/0/104                              bridge      Family 15h (Models 10h-1fh) Processor Function 3
+/0/105                              bridge      Family 15h (Models 10h-1fh) Processor Function 4
+/0/106                              bridge      Family 15h (Models 10h-1fh) Processor Function 5
