@@ -23,9 +23,3 @@ H/W path      Устройство  Класс  Описание
 /0/100/14.3                         bridge      FCH LPC Bridge
 /0/100/14.4                         bridge      FCH PCI Bridge
 /0/100/14.5                         bus         FCH USB OHCI Controller
-/0/101                              bridge      Family 15h (Models 10h-1fh) Processor Function 0
-/0/102                              bridge      Family 15h (Models 10h-1fh) Processor Function 1
-/0/103                              bridge      Family 15h (Models 10h-1fh) Processor Function 2
-/0/104                              bridge      Family 15h (Models 10h-1fh) Processor Function 3
-/0/105                              bridge      Family 15h (Models 10h-1fh) Processor Function 4
-/0/106                              bridge      Family 15h (Models 10h-1fh) Processor Function 5
